@@ -12,6 +12,7 @@ Author: Naeem Tai
 	- AsciiAnimation : GUI based application that allows users to create, save/load, and play character based animations.
 	- Sorting : implementation of bubble sort, insertion sort, and selection sort algorithms.
 	- HorseRace : simulation of probability based horse race with varying number of horses and length of race.
+	- NumberGuess : number guessing game with two options: computer guesses your number in maximum of 7 tries, or you guess the computer's number till you get it right.
   - CSCI-230 Computing I, *Fall 2012, IUPUI*
 
 * **Projects not in repository:**
