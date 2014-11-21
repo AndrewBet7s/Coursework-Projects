@@ -3,7 +3,7 @@ Projects Portfolio
 
 Author: Naeem Tai
 
-* **Projects in the repository from:**
+* **Projects in the repository:**
   - CSCI 452 Object Oriented Analysis and Design, *Spring 2014, IUPUI*
   - CSCI 362 Data Strucutres and Algorithms, *Fall 2013, IUPUI*
   - CSCI-240 Computing II, *Spring 2013, IUPUI*
