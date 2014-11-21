@@ -3,6 +3,16 @@ Projects Portfolio
 
 Author: Naeem Tai
 
+* **Projects not in repository:**
+  - CSCI 450 Software Engineering, *Fall 2014, IUPUI*
+    - Chatterbox : social media application to be released in 3 weeks.
+  - CSCI 403 Operating Systems, *Spring 2014, IUPUI*
+    - Implemented thread scheduling algorithms, thread synchronization, and page replacement algorithms in NACHOS pseudo operating system.
+  - Personal Mobile Website : http://cs.iupui.edu/~ntai
+  - CSCI-N 300 Mobile Computing, *Fall 2012, IUPUI*
+    - MSD of Wayne Twonship mobile web app : http://cs.iupui.edu/~ntai/n300/final/
+	- Other Projects : http://cs.iupui.edu/~ntai/#projects
+
 * **Projects in the repository:**
   - CSCI 452 Object Oriented Analysis and Design, *Spring 2014, IUPUI*
   - CSCI 362 Data Strucutres and Algorithms, *Fall 2013, IUPUI*
@@ -21,6 +31,3 @@ Author: Naeem Tai
 	- CardGame : blackjack card game.
 	- BMI : GUI based BMI calculator with feedback on BMI range.
 	- ChangeMaker : for balance due and amount tendered inputs, gives exact change due in least number of bills & coins.
-* **Projects not in repository:**
-  - Chatterbox, social media application to be released in 3 weeks.
-  - CSCI-N 300 Mobile Computing, *Fall 2012, IUPUI*
