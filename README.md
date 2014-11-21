@@ -6,7 +6,6 @@ Author: Naeem Tai
 * **Projects in the repository:**
   - CSCI 452 Object Oriented Analysis and Design, *Spring 2014, IUPUI*
   - CSCI 362 Data Strucutres and Algorithms, *Fall 2013, IUPUI*
-    - k-means : clustering algorithm
   - CSCI-240 Computing II, *Spring 2013, IUPUI*
   - CSCI-230 Computing I, *Fall 2012, IUPUI*
 
