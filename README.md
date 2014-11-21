@@ -20,6 +20,7 @@ Author: Naeem Tai
 	- Cryptography : implementation of substitution cipher algorithm for encoding/decoding.
 	- CardGame : blackjack card game.
 	- BMI : GUI based BMI calculator with feedback on BMI range.
+	- ChangeMaker : for balance due and amount tendered inputs, gives exact change due in least number of bills & coins.
 * **Projects not in repository:**
   - Chatterbox, social media application to be released in 3 weeks.
   - CSCI-N 300 Mobile Computing, *Fall 2012, IUPUI*
