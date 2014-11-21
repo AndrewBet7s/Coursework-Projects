@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1364681496 source:e:\iupui\spring 2013\csci 24000\c++\students\date.cpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	"Date.h"
+
+1364670178 e:\iupui\spring 2013\csci 24000\c++\students\date.h
+	<string>
+
+1364688714 source:e:\iupui\spring 2013\csci 24000\c++\students\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	"Date.h"
+	"Address.h"
+	"Student.h"
+
+1364670462 source:e:\iupui\spring 2013\csci 24000\c++\students\address.cpp
+	"Address.h"
+	<iostream>
+	<sstream>
+
+1364670370 e:\iupui\spring 2013\csci 24000\c++\students\address.h
+	<string>
+
+1364688964 source:e:\iupui\spring 2013\csci 24000\c++\students\student.cpp
+	"Student.h"
+	<iostream>
+	<sstream>
+	<stdlib.h>
+
+1364675030 e:\iupui\spring 2013\csci 24000\c++\students\student.h
+	<string>
+	"Date.h"
+	"Address.h"
+
