@@ -16,6 +16,7 @@ Author: Naeem Tai
 	- Students : parse students' records from input file and store data in appropriate objects and instances; allows users to perform various operations on data such as reading, sorting, and searching.
   - CSCI-230 Computing I, *Fall 2012, IUPUI*
     - Hangman : GUI based Hangman game.
+	- NumberGuess : GUI based number guessing game with two versions: computer guesses your number till it gets it right, or you guess the computer's number till you get it right.
 * **Projects not in repository:**
   - Chatterbox, social media application to be released in 3 weeks.
   - CSCI-N 300 Mobile Computing, *Fall 2012, IUPUI*
