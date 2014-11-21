@@ -1,0 +1,28 @@
+Project
+	Your project is to build a simple GUI that enables the user to create and view ASCII animations. Requirements:
+
+	•Use a JFrame or JApplet  as the primary interface
+	•Extend whatever Swing  elements you need to create the animation
+	•Use at least one interface to handle events
+	•Incorporate a custom panel to accept the animations
+	•Include buttons or a menu interface to allow moving between frames, saving and loading
+	•User should be able to edit any frame
+	•User should be able to navigate between frames
+	•There should be some mechanism for saving and loading animations
+
+The asciiCanvas
+	You're expected to build at least one custom class. I called mine the AsciiCanvas. This class should have the following capabilities:
+
+	•be an extension of JTextArea or something similar
+	•include the animation (probably as an array of Strings.)
+	•display text in a monospace font
+	•have methods for moving back and forth in the animation
+	•have methods for saving and loading the animation
+	•support animations of at least ten frames
+	
+
+As much of the animation code as possible should belong to the AsciiCanvas. The main program shouldn't actually be saving files or switching frames. The main program should be sending requests to the canvas to do the actual work when possible. Encapsulate!
+
+Please utilize the package feature when building this app. Your program should be placed in a package.
+
+Note that file I/O is disallowed in Applets, so if you want to write this project as an applet, you'll need to use another mechanism (like the param mechanism) to load data in.
