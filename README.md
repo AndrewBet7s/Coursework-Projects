@@ -15,7 +15,7 @@ Author: Naeem Tai
 	- NumberGuess : number guessing game with two options: computer guesses your number in maximum of 7 tries, or you guess the computer's number till you get it right.
 	- Students : parse students' records from input file and store data in appropriate objects and instances; allows users to perform various operations on data such as reading, sorting, and searching.
   - CSCI-230 Computing I, *Fall 2012, IUPUI*
-
+    - Hangman : GUI based Hangman game.
 * **Projects not in repository:**
   - Chatterbox, social media application to be released in 3 weeks.
   - CSCI-N 300 Mobile Computing, *Fall 2012, IUPUI*
