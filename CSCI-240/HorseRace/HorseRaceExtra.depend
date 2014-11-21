@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1361590510 source:e:\iupui\spring 2013\csci 24000\c++\horseraceextra\main.cpp
+	<iostream>
+	"Race.h"
+	<stdlib.h>
+	<time.h>
+
+1361593132 e:\iupui\spring 2013\csci 24000\c++\horseraceextra\race.h
+	"Horse.h"
+
+1361593286 e:\iupui\spring 2013\csci 24000\c++\horseraceextra\horse.h
+
+1361593694 source:e:\iupui\spring 2013\csci 24000\c++\horseraceextra\horse.cpp
+	"Horse.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
+1361594554 source:e:\iupui\spring 2013\csci 24000\c++\horseraceextra\race.cpp
+	"Race.h"
+	<iostream>
+

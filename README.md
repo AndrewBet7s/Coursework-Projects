@@ -11,6 +11,7 @@ Author: Naeem Tai
     - Multi User App (Multi User Native Application for Information Management) : native GUI based application that allows users to store information in password protected personal accounts and share with other users.
 	- AsciiAnimation : GUI based application that allows users to create, save/load, and play character based animations.
 	- Sorting : implementation of bubble sort, insertion sort, and selection sort algorithms.
+	- HorseRace : simulation of probability based horse race with varying number of horses and length of race.
   - CSCI-230 Computing I, *Fall 2012, IUPUI*
 
 * **Projects not in repository:**
