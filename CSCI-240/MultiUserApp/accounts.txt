@@ -1,0 +1,19 @@
+// This document has been created using the datafile provided for the Heap Of Students project in C++.
+// This document is only to remember non-real user accounts that have been created to test the Multi User App.
+// This document has no relation with data storing or data management in the Multi User App final project in java.
+
+
+(username) (password) (name) (characteristics)
+
+(lcarter) (lisa) (Lisa Carter) (dob and address visible)
+Carter, Lisa, 1809 Oak Ridge Drive  Rolla MO 65401, 2/25/1989
+
+(mgilham) (mike) (Mike Gilham) (dob and address hidden)
+Gilham, Mike, 3543 Ventura Drive Apt H Marina CA 93933, 9/27/1980
+
+(rdavenport) (robin) (Robin Davenport) (dob hidden, address visible but not entered, email not entered)
+Davenport, Robin, 4174 Columbia Mine Road  Wheeling WV 26003, 3/9/1971
+
+// More accounts may be created when demonstrating in class
+// Graders may create more accounts and change information as they wish for testing purposes.
+// Users may also create their accounts if they choose to.
