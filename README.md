@@ -19,6 +19,7 @@ Author: Naeem Tai
 	- NumberGuess : GUI based number guessing game with two versions: computer guesses your number till it gets it right, or you guess the computer's number till you get it right.
 	- Cryptography : implementation of substitution cipher algorithm for encoding/decoding.
 	- CardGame : blackjack card game.
+	- BMI : GUI based BMI calculator with feedback on BMI range.
 * **Projects not in repository:**
   - Chatterbox, social media application to be released in 3 weeks.
   - CSCI-N 300 Mobile Computing, *Fall 2012, IUPUI*
